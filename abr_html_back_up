@@ -1,0 +1,92 @@
+<!DOCTYPE html> 
+<html lang="ru">
+ <head>
+  <title>ABSTARCT RUN</title>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="ABR_FAVICON_IMAGE.png" type="image/x-icon">
+   <style>
+     .mainpage_container {
+       display: flex;
+       align-items: flex-start;
+       flex-direction:column
+
+     }
+
+     .mainpage_container div {
+       padding: 10px;
+       border: 1px solid silver;
+     
+     }
+
+     .box-1{
+         flex: 3;
+         order: 2;
+     }
+     .box-2{
+      flex: 1;
+      order: 1;
+     }
+     .box-3{
+      flex: 1;
+     }
+      
+    </style>
+
+ </head>
+  
+<body>    
+<center>
+
+<div class="mainpage_container">
+
+       <div class="box-1">
+         <h3></h3>
+
+         <iframe width="100%" height="100%" src="https://www.youtube.com/embed/8imCU2EwfqU" 
+         title="YouTube video player" frameborder="0" allow="accelerometer; 
+         autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+         allowfullscreen></iframe>
+
+       </div>
+       <div class="box-2">
+         <h3></h3>
+
+         <img width="100%" height="100%" 
+             src="IMAGE/TRACER_ABSTRACT_RUN_IMAGE.jpg " 
+               alt="TRACER_ABSTRACT_RUN_IMAGE.jpg "> 
+        </div>
+
+       <div class="box-3">
+         <h3></h3>
+
+         <p>LLLLLLLLLLLL
+          LLLLLLLLLLLLLLL
+          LLLLLLLLLLLLL
+          LLLLLLLL
+          LLLLLLLLLLLL
+        </p>
+
+
+       </div>
+
+</div>
+
+
+
+  <br>
+
+ 
+
+  <br>
+  <hr>
+  
+  <p> <center>
+  #20Y21_07_20 <br>  #LLLL #TEST  </center> </p> 
+ 
+  <hr>
+
+ </body>
+ 
+  </html>
+ 
+   <!-- #20Y21_07_20 #CODE_VERS_0.1 -->
