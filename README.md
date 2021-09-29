@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @xa3am
-- 👀 I’m interested in infosystems
-- 🌱 I’m currently learning flex management
-- 💞️ I’m looking to collaborate on Trace✨
-- 📫 How to reach me instagram.com/xa3am
+- 👋 Hi,  I’m interested 👀 in Infosystems, if you too > write me 📫 xa3am@outlook.com 
 
 <!---
 xa3am/xa3am is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
