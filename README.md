@@ -1,4 +1,4 @@
-- 👋 Hi,  I’m interested 👀 in Infosystems, if you too > write me 📫 xa3am@outlook.com 
+- 👋 Hi,  I’m deep interested 👀 in Infosystems, if you too > write me 📫 xa3am@outlook.com 
 
 <!---
 xa3am/xa3am is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
